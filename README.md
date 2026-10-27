@@ -9,6 +9,6 @@ Para el desarrollo del diseño del horario y la maquetación de la página web, 
 * [Guía Completa de CSS Grid - CSS-Tricks](https://css-tricks.com) - Ideal si se prefiere maquetar el horario como una cuadrícula moderna y flexible en lugar de una tabla clásica.
 * [Juego Interactivo Flexbox Froggy](https://flexboxfroggy.com) - Recurso interactivo para dominar la alineación de elementos y textos dentro de las celdas del horario.
 
-## 🎨 Diseño y Estética Visual
+##  Diseño y Estética Visual
 * [Generador de Paletas de Colores - Coolors](https://coolors.co) - Herramientas para definir los colores de las distintas asignaturas o bloques de horas del horario.
 * [uiGradients](https://uigradients.com) - Colección de degradados CSS listos para aplicar como fondos modernos en las tarjetas de las horas.
